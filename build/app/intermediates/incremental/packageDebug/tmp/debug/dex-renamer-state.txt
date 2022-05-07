@@ -1,0 +1,7 @@
+#Sun May 01 10:46:45 WAT 2022
+base.0=C\:\\Users\\badea\\Documents\\commodots\\github\\tv360 App\\ios\\tv360ios1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\badea\\Documents\\commodots\\github\\tv360 App\\ios\\tv360ios1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes2.dex
